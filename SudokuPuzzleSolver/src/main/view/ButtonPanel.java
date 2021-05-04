@@ -2,7 +2,7 @@
 *
 *                   	 SUDOKU PUZZLE SOLVER
 *                   
-*  						NDSU MSE Final Project
+*  						
 *                                                 
 *                                                                       
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
